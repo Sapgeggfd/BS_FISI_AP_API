@@ -6,3 +6,4 @@ sqlite3
 fastapi
 os
 pathlib
+uvicorn[standard]
