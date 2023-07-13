@@ -1,0 +1,8 @@
+python:3.10.11
+pip:22.3.1
+
+# Modules
+sqlite3
+fastapi
+os
+pathlib
